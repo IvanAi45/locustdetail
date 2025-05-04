@@ -1,2 +1,2 @@
 Method,Name,Error,Occurrences
-POST,/pose/image,"ReadTimeout(ReadTimeoutError(""HTTPConnectionPool(host='localhost', port=30080): Read timed out. (read timeout=60)""))",5
+POST,/pose/json,"ReadTimeout(ReadTimeoutError(""HTTPConnectionPool(host='localhost', port=30080): Read timed out. (read timeout=60)""))",1
